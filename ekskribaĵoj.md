@@ -10,4 +10,4 @@ Lånord och nyord som jag funderar på bättre försvenskningar av (än de före
 
 * stream, video stream = ström (redan etablerat?), videoström. direktström (sändning på internet. internetsändning? sändning.)
 
-* att streama = att strömma, att ta emot (en sändning/ström) ~~på~~ via internet. *Sändningen strömmades via internet.*? 
+* att streama = att strömma, att ta emot (en sändning/ström) via internet. *Sändningen strömmades via internet.*? 
