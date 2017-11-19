@@ -1,4 +1,5 @@
-<!-- +# Kial vi kredeble ne estas moral-relativisma+
+<!-- 
+# Kial vi kredeble/verŝajne ne estas moral-relativisma
 
 # Kial la EU aĉas/malbonas
 
@@ -10,21 +11,24 @@
 
 # Liberalismo, laŭ mi
 
-iom malfacilas paroli pri aŭ diskuti politiko sen.. iĝi sentema (en malbonan sencon); do, fari en tute trankvila, sakligt och amika/vänligt/trevligt sätt.
-sarkastika kaj juĝema. mi pli kaj pli provis eviti.
+Mi pensas ke iom malfacilas paroli pri aŭ diskuti politiko en bona maniero, sen iĝi sentema (en malbonan sencon): kiel iĝi sarkastika aŭ juĝema; fari en tute trankvila, *sakligt och amika/vänligt/trevligt* maniero. Mi kredas ke mi kelfoje je un precipa retkomunumo kelkfoje iĝis sarkastika kaj juĝema, sed mi ankaŭ pli kaj pli provis eviti, kiam mi noticis kaj pripensis.
 
-mi provos eviti tion ĉi tie (en la blogo, por nun, eble ne ĉiam en la venonto), esti sarkasma aŭ juĝema, sed eble ne eblas priskribi sen ''valori'', tamen?
+Do, mi provos eviti tion ĉi tie (en la blogo, por nun, eble ne ĉiam en la venonto), esti sarkasma aŭ juĝema, sed eble ne eblas priskribi sen ''valori'', tamen? Ĉiuokaze, mi pensas ke juĝemo kaj sarkasmo kaj malestimo malbonas: ili malbonas en si mem, mi ne povas scii ke mi tiom pravas, kaj cetere ĝi ankaŭ ne konvinkas iu.
 
-esence? frihet, individualism, (jämlikhet och individuella) rättigheter, vurm för marknadsekonomi. Partoj de tio (kiel libereco kaj egaleco kaj (individuaj) rajtoj) fakte bonas, sed multaj partoj ankaŭ (bedaŭrinde) ege malbonas, laŭ mi.
+Liberalismo esence? frihet, individualism, (egaleco kaj individuaj) rättigheter, vurm för marknadsekonomi. Partoj de tio (kiel libereco kaj egaleco kaj /bazaj/ rajtoj) fakte bonas, sed multaj partoj ankaŭ ege malbonas, laŭ mi.
 
-en pintoj mi vidas la liberalismo tiel (kaj mi nun tamen iom uzu sarkasmo, sed mi kredas ke ĝi estas klara kaj vi povas kompreni la vidpunkto tamen: mi faras tion ĉar mi fakte pensas ke la penso en tiu okazo iĝas pli klara tiel: memoru ke tio nur estas mia vidpunkto):
+Mi nun *tamen* iom uzu sarkasmo, sed mi kredas ke ĝi estas klara kaj vi povas kompreni la vidpunkto tamen: mi faras tion ĉar mi fakte pensas ke la penso en tiu okazo iĝas pli klara tiel. Memoru ke tio nur estas mia vidpunkto, kaj mi nur mokas la opinioj. Do, tiumaniere mi vidas la liberalismo, en pintoj, tiel:
 
-* "ni (preskaŭ) ne havas iu pli bona* ol la marknadsekonomi: do MARKNADSEKONOMI BONEGAS KAJ TUTE NE HAVAS PROBLEMOJN: pro dinifino/per definition, -do- ni BEZONAS PLI DA MARKNADSEKONOMI (ĉar de kialoj)!"
+* "ni (preskaŭ) ne havas iu pli bona (ankaŭ vidu suben) ol la merkatekonomio: do MMERKATEKONOMIO BONEGAS KAJ TUTE NE HAVAS PROBLEMOJN: por difino<?>, ni BEZONAS PLI DA MERKATEKONOMIO, ĉar de kialoj!"
 
-* (tutan) malvolon/maleblecon vidi sociaj strukturoj[?] kaj la influo al+/je+ la individuo. Laŭ tiu liberalismo, tiu ulo kiu plockar pantburkar, kaj tiu ulo kiu estas iom utanför, kaj fakte ankaŭ (se oni ska esti koncekvenca, sed estas liberaloj kiu fakte ne pensas tiel precipe en tiu kazo, mi kredas) tiu ino kiu havas malpli da salajro[?], esence ("libere") elektis ĝin (vidu ankaŭ la stranga ideo "libera elekto"). Eble ne teorie, sed efektive, oni pensas kiel sociaj strukturoj ne ekzistas.
+* malvolon aŭ maleblecon vidi sociaj strukturoj *sociala strukturer* kaj la influo de tiuj je la individuo (aŭ persono). Laŭ tiu liberalismo, tiu ulo kiu plockar pantburkar, kaj tiu ulo kiu estas iom utanför, kaj fakte ankaŭ (se oni ska esti koncekvenca, sed estas liberaloj kiu fakte ne pensas tiel precipe en tiu kazo, mi kredas) tiu ino kiu havas malpli da salajro ol same merita iĉo, esence ("libere") elektis ĝin (vidu ankaŭ la stranga ideo "libera elekto"). Eble ne teorie, sed efektive, oni pensas kiel sociaj strukturoj ne ekzistas.
 
-* (minime svedie, kiel kun la marknadsekonomi:) "ni (preskaŭ) ne havas alternativon al kärnkraft: do KÄRNKRAFT BONEGAS KAJ NI BEZONAS PLU DA KÄRNKRAFT". Notindas ke mi kredas ke moderna kärnkraft multege malpli malbona ol la (ankoraŭ kutima) malbona: kiel vi scias: grandegaj problemoj estas la bränsle kaj la avfall: moderna kärnkraft (ĉu la kvara generacio?) multe (?) maplpliigas tiuj problemoj, laŭ kiu mi komprenis.
+* (minime svedie, kiel kun la merkatekonomio): "ni (preskaŭ) ne havas alternativon al kernernergio kiel fonto de elektrismo: do KERNENERGIO BONEGAS KAJ NI BEZONAS PLU DA KERNENERGIO". Notindas ke mi kredas ke moderna kernenergiaĵigo multege malpli malbona ol la (ankoraŭ kutima) malbona: kiel vi scias: grandegaj problemoj estas la bränsle kaj la avfall: moderna kernenergiaĵigo (ĉu la kvara generacio?) multe (?) maplpliigas tiuj problemoj, laŭ kiu mi komprenis.
 
-Liberalismo kiu ne stämmer in på ovanstående punkter ne (tiom) malbonas.
+* aldono: kelkfoje, la penso ke la salajroj ĝuste estas adaptigita de la merkatekonomio.
 
-Mi ankaŭ aldoni, ke depende de perspektivo, ni ja havas alternativoj al marknadsekonomi. La norda kaj sociodemokrata blandekonomi, ekzemple. Kaj ankaŭ ke veras ke kelkfoje/iom malfacilas scii kiel sociaj strukturoj funkcias. Facilas nur imagii socian strukturon, kiu ja povas esti problema: ni bezonas iel, minime parte.. scii, aŭ povi verŝajniigi ke strukturon ekzistas antaŭ ni supozas ĝin.
+Liberalismo kiu ne *stämmer in på ovanstående punkter* ne (tiom) malbonas.
+
+Mi ankaŭ aldoni, ke depende de perspektivo, ni ja havas alternativoj al marknadsekonomi. La nordia kaj *sociodemokrata blandekonomi*, ekzemple. Kaj ankaŭ ke veras ke kelkfoje/iom malfacilas scii kiel sociaj strukturoj funkcias. Facilas nur imagii *socian strukturon*, kiu ja povas esti problema: ni bezonas iel, minime parte.. scii, aŭ povi verŝajniigi ke strukturon ekzistas antaŭ ni supozas ĝin.
+
+Kaj tiu, mi kreadas, estus mia plej valoradema skribado/temo pri politiko. <!-- konservatismo povas havi stultegaj/aĉaj ståndpukter/vidpunktoj, sed ne tiom.. luriga kiel liberalismo, för..fulla.. förledande? upprör mig inte lika mkt. -->
