@@ -28,6 +28,8 @@ So, you did an upgrade, and now Tab groups is no longer working in the rapid and
 
 Now, start Firefox, and (hopefully) enjoy your Tab group tabs.
 
+When you've re-retrieved and saved, using whatever method you like, your lost tabs, you can remove and then install Firefox the regular way again.
+
 ## Comments
 
 It has been said that this might not work if you've waited for too long after the upgrade, if you've used Firefox too much, in other words. You could look in to how to get a Firefox session back from the backups – in the meantime, do not use Firefox, or make a backup of your Firefox settings folder – it seems the session backups is stored in ~/.mozilla/firefox/[somestrangename]/sessionstore-backups. To backup all of it:
@@ -37,3 +39,5 @@ It has been said that this might not work if you've waited for too long after th
 The new and fancy way of writing apt-get is just "apt".
 
 Since I don't have an English language version system, my default download folder is not called Downloads.
+
+Orignal credit goes to [@rpasta42](https://github.com/Quicksaver/Tab-Groups/issues/560#issuecomment-345537945) and [Ask Ubuntu](https://askubuntu.com/questions/661186/how-to-install-previous-firefox-version).
