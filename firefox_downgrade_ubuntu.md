@@ -28,7 +28,7 @@ So, you did an upgrade, and now Tab groups is no longer working in the rapid and
 
 Now, start Firefox, and (hopefully) enjoy your Tab group tabs.
 
-When you've re-retrieved and saved, using whatever method you like, your lost tabs, you can remove and then install Firefox the regular way again.
+When you've re-retrieved and saved, using whatever method you like, your lost tabs, you can remove and then install Firefox the regular way again. Of course, using an outdated version in the long run is not recommended for security reasons.
 
 ## Comments
 
