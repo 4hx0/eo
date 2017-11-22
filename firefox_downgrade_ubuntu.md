@@ -41,3 +41,5 @@ The new and fancy way of writing apt-get is just "apt".
 Since I don't have an English language version system, my default download folder is not called Downloads.
 
 Orignal credit goes to [@rpasta42](https://github.com/Quicksaver/Tab-Groups/issues/560#issuecomment-345537945) and [Ask Ubuntu](https://askubuntu.com/questions/661186/how-to-install-previous-firefox-version).
+
+Other solutions, how to install Firefox ESR as a package, etc: [Other Ask Ubuntu thread](https://askubuntu.com/questions/977138/how-do-i-downgrade-firefox-v-57-to-v-56)
