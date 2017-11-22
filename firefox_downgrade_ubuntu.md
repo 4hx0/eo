@@ -1,5 +1,7 @@
 # How to downgrade Firefox on Ubuntu
 
+(Tested on Xubuntu 16.04.3.)
+
 So, you did an upgrade, and now Tab groups is no longer working in the rapid and ugly Firefox 57? Here's a simple way to reretrieve those groups, by temporarely downgrading Firefox: 
 
 * Remove Firefox:
@@ -14,7 +16,7 @@ So, you did an upgrade, and now Tab groups is no longer working in the rapid and
 
 * Download the older version, in this case 56, from this site – take the one closest corresponding to your architecture (i\*86 or amd64), the other wont work for your computer:
 
-:https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/
+  https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/
 
 * Install it, assuming it's in a folder Download, which is default on English systems:
 
