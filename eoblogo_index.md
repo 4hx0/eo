@@ -1,3 +1,22 @@
+# Cleantube replacement for Firefox Quantum
+
+Need a replacement for Cleantube in newer versions of Firefox? Or, to say it this way: do you want to block videos that pops up at the end of a Youtube video stream? And all those annoying related videos?
+
+I really do. The latter can be blocked also with an adblocker like uBlock Origin, but that doesn't fix the former. After some searching, I found the excellent solution: 
+
+* [The Firefox addon "No Youtube comments"](https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/) by Abdullah Diaa
+
+Besides, this addon, perhaps somewhat surprisingly, can also block Youtube comments.
+
+No distraction from hundereds of related videos every time I want to look at something. Excellent.
+
+## Resumo en esperanto
+Ĉu vi volas bloki la "related videos" (rilataj filmetoj) kaj dekstre kaj filmetfine en Youtube? Do vi povas uzi ĉi tiun bonan helpprogramon en Firefox:
+
+* [No Youtube comments](https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/) de Abdullah Diaa
+
+Kiel la nomo diras, ĝi ankaŭ povas bloki Youtube kommentoj. Kaj Youtube tuje iĝas multe pli eleganta.
+
 <!-- 
 # Kial vi kredeble/verŝajne ne estas moral-relativisma
 
